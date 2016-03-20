@@ -1,0 +1,23 @@
+{
+  "name": "psm",
+  "version": "0.0.1",
+  "description": "Split and upload files larger than 0.5MB to Pastebin",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoschrs/Pastebin-Size-Matters.git"
+  },
+  "keywords": [
+    "pastebin",
+    "nodejs"
+  ],
+  "author": "Stefanos Chrs <stefanoschrs@hotmail.com> (http://www.stfnstudios.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanoschrs/Pastebin-Size-Matters/issues"
+  },
+  "homepage": "https://github.com/stefanoschrs/Pastebin-Size-Matters#readme"
+}
